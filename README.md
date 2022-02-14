@@ -4,25 +4,24 @@
 A dashboard style website that scrap satellite image, segment, and visualize its land use.<br/>
 
 
-The tech stack are as follow.
+The tech stack are as follow.<br/>
 
-Frontend💻
-
-React
-Tailwind
-TypeScript
-
-Backend⚙️
-
-Express
-Node.js
-TypeScript
-
-Others
-Onnxruntime-node
-Selenium
-Numjs
-Jimp
+Frontend💻<br/>
+React<br/>
+Tailwind<br/>
+TypeScript<br/>
+<br/>
+Backend⚙️<br/>
+<br/>
+Express<br/>
+Node.js<br/>
+TypeScript<br/>
+<br/>
+Others<br/>
+Onnxruntime-node<br/>
+Selenium<br/>
+Numjs<br/>
+Jimp<br/>
 
 
 Satellite Image Land Use Segmentation Model
