@@ -12,7 +12,6 @@ Tailwind<br/>
 TypeScript<br/>
 <br/>
 Backend⚙️<br/>
-<br/>
 Express<br/>
 Node.js<br/>
 TypeScript<br/>
