@@ -1,0 +1,27 @@
+{ //Comments copied from https://www.sitepoint.com/react-with-typescript-best-practices/
+  "compilerOptions": {
+    "target": "es5", // Specify ECMAScript target version
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ], // List of library files to be included in the compilation
+    "allowJs": true, // Allow JavaScript files to be compiled
+    "skipLibCheck": true, // Skip type checking of all declaration files
+    "esModuleInterop": true, // Disables namespace imports (import * as fs from "fs") and enables CJS/AMD/UMD style imports (import fs from "fs")
+    "allowSyntheticDefaultImports": true, // Allow default imports from modules with no default export
+    "strict": true, // Enable all strict type checking options
+    "forceConsistentCasingInFileNames": true, // Disallow inconsistently-cased references to the same file.
+    "noFallthroughCasesInSwitch": true, // Report errors for fallthrough cases in switch statement
+    "module": "esnext",// Specify module code generation
+    "moduleResolution": "node",// Resolve modules using Node.js style
+    "resolveJsonModule": true,// Include modules imported with .json extension
+    "isolatedModules": true, // Unconditionally emit imports for unresolved files
+    "noEmit": true, // Do not emit output (meaning do not compile code, only perform type checking)
+    "jsx": "react-jsx" // Support JSX in .tsx files
+  },
+  "include": [
+    "src", // *** The files TypeScript should type check ***
+	],
+	"exclude": ["node_modules", "build"] // *** The files to not type check ***
+}
