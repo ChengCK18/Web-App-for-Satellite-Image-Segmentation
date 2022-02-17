@@ -32,11 +32,9 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#todo">Todo</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -139,7 +137,7 @@ Press on the location of interest on the google map and press the query button t
 </ol>
 
 <!-- ROADMAP -->
-## To do
+## Todo
 
 - [ ] Improve model performance
 - [ ] Error handling for server and frontend side
