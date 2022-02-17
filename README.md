@@ -45,8 +45,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![website-preview]("https://github.com/ChengCK18/Web-App-for-Satellite-Image-Segmentation/tree/main/readme_doc/website%20preview.PNG?raw=true")
-
+<img src="(https://github.com/ChengCK18/Web-App-for-Satellite-Image-Segmentation/tree/main/readme_doc/web_preview.png" width="250" height="250" />
 The main idea of this project is to construct a website that allows user to select an area on the satellite imagery map and to understand its land usage. This project utilize deep learning segementation model trained on Keras with dataset from <a href='https://landcover.ai/'>Land Cover</a>. There are a total of 5 land use classes for this model which are:
 <ol>  
 <li>Background (Unlabelled)</li>  
